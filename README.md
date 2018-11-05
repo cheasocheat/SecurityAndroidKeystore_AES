@@ -1,3 +1,3 @@
 # SecurityAndroidKeystore_AES
 
-Support API 19 or highter 
+Support API 23 or highter 
